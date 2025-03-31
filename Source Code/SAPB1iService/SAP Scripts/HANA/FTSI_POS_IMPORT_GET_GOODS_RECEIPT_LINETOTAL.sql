@@ -1,0 +1,12 @@
+CREATE PROCEDURE "FTSI_POS_IMPORT_GET_GOODS_RECEIPT_LINETOTAL"(
+	IN RefNum VARCHAR(20)
+)
+AS
+BEGIN
+SELECT OINM."OpenValue" AS "LineTotal" 
+
+FROM OIGE INNER JOIN IGE1 ON OIGE."DocEntry" = IGE1."DocEntry" 
+          INNER JOIN OINM ON OIGE."DocEntry" = OINM."CreatedBy" AND IGE1."ItemCode" = OINM."ItemCode" AND IGE1."LineNum" = OINM."DocLineNum" AND OINM."TransType" = '60'
+            
+WHERE "BASE_REF" = :RefNum;
+END;

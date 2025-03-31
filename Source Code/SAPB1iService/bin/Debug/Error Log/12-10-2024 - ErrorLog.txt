@@ -1,0 +1,181 @@
+                                                      SAP Business One Integration Error Log
+13:34:52.6604259          Connected to HHNI_TEST - Company Database.
+13:37:48.5121613          Connected to HHNI_TEST - Company Database.
+13:39:52.8121556          Connected to HHNI_TEST - Company Database.
+13:41:08.2740861          Connected to HHNI_TEST - Company Database.
+13:47:32.3504705          Connected to HHNI_TEST - Company Database.
+13:49:53.7447158          Connected to HHNI_TEST - Company Database.
+13:51:48.3035856          Connected to HHNI_TEST - Company Database.
+13:53:24.9626506          Connected to HHNI_TEST - Company Database.
+13:56:42.8606741          Connected to HHNI_TEST - Company Database.
+14:01:23.4980125          Connected to HHNI_TEST - Company Database.
+14:04:03.0051864          Connected to HHNI_TEST - Company Database.
+14:07:45.1920999          Connected to HHNI_TEST - Company Database.
+14:13:09.8357832          Connected to HHNI_TEST - Company Database.
+14:16:31.2846786          Connected to HHNI_TEST - Company Database.
+14:17:03.9403351          Connected to HHNI_TEST - Company Database.
+14:17:35.6961762          Connected to HHNI_TEST - Company Database.
+14:18:07.4402924          Connected to HHNI_TEST - Company Database.
+14:18:39.3385903          Connected to HHNI_TEST - Company Database.
+14:19:11.0909162          Connected to HHNI_TEST - Company Database.
+14:19:42.8214620          Connected to HHNI_TEST - Company Database.
+14:20:14.6542014          Connected to HHNI_TEST - Company Database.
+14:20:46.4516212          Connected to HHNI_TEST - Company Database.
+14:21:18.1987045          Connected to HHNI_TEST - Company Database.
+14:21:49.9025891          Connected to HHNI_TEST - Company Database.
+14:22:21.6325453          Connected to HHNI_TEST - Company Database.
+14:22:53.3317648          Connected to HHNI_TEST - Company Database.
+14:23:25.0686359          Connected to HHNI_TEST - Company Database.
+14:23:56.8623750          Connected to HHNI_TEST - Company Database.
+14:24:28.5989901          Connected to HHNI_TEST - Company Database.
+14:25:00.3750811          Connected to HHNI_TEST - Company Database.
+14:25:32.0474804          Connected to HHNI_TEST - Company Database.
+14:26:03.8591663          Connected to HHNI_TEST - Company Database.
+14:26:35.6223414          Connected to HHNI_TEST - Company Database.
+14:27:07.3274627          Connected to HHNI_TEST - Company Database.
+14:27:38.9642468          Connected to HHNI_TEST - Company Database.
+14:28:10.7264899          Connected to HHNI_TEST - Company Database.
+14:28:42.4459028          Connected to HHNI_TEST - Company Database.
+14:29:14.1679900          Connected to HHNI_TEST - Company Database.
+14:29:45.9820485          Connected to HHNI_TEST - Company Database.
+14:30:17.7651745          Connected to HHNI_TEST - Company Database.
+14:30:49.4896008          Connected to HHNI_TEST - Company Database.
+14:31:21.2319823          Connected to HHNI_TEST - Company Database.
+14:31:52.9226727          Connected to HHNI_TEST - Company Database.
+14:32:24.6384186          Connected to HHNI_TEST - Company Database.
+14:32:56.3477213          Connected to HHNI_TEST - Company Database.
+14:33:28.0588723          Connected to HHNI_TEST - Company Database.
+14:33:59.7669722          Connected to HHNI_TEST - Company Database.
+14:34:31.5288911          Connected to HHNI_TEST - Company Database.
+14:35:03.2935726          Connected to HHNI_TEST - Company Database.
+14:35:35.0669568          Connected to HHNI_TEST - Company Database.
+14:36:06.8070970          Connected to HHNI_TEST - Company Database.
+14:36:38.5538894          Connected to HHNI_TEST - Company Database.
+14:37:10.3653615          Connected to HHNI_TEST - Company Database.
+14:37:42.1557804          Connected to HHNI_TEST - Company Database.
+14:38:13.9385731          Connected to HHNI_TEST - Company Database.
+14:38:45.6935202          Connected to HHNI_TEST - Company Database.
+14:39:17.6635747          Connected to HHNI_TEST - Company Database.
+14:39:49.3875178          Connected to HHNI_TEST - Company Database.
+14:40:21.0098325          Connected to HHNI_TEST - Company Database.
+14:40:52.8372123          Connected to HHNI_TEST - Company Database.
+14:41:24.6268460          Connected to HHNI_TEST - Company Database.
+14:41:56.3734657          Connected to HHNI_TEST - Company Database.
+14:42:28.0272528          Connected to HHNI_TEST - Company Database.
+14:42:59.7520746          Connected to HHNI_TEST - Company Database.
+14:43:31.4161551          Connected to HHNI_TEST - Company Database.
+14:44:03.2067308          Connected to HHNI_TEST - Company Database.
+14:44:34.9888544          Connected to HHNI_TEST - Company Database.
+14:45:06.7644873          Connected to HHNI_TEST - Company Database.
+14:45:38.4785843          Connected to HHNI_TEST - Company Database.
+14:46:10.2031248          Connected to HHNI_TEST - Company Database.
+14:46:41.9978405          Connected to HHNI_TEST - Company Database.
+14:47:13.6308981          Connected to HHNI_TEST - Company Database.
+14:47:45.2738200          Connected to HHNI_TEST - Company Database.
+14:48:16.9466407          Connected to HHNI_TEST - Company Database.
+14:48:48.5956855          Connected to HHNI_TEST - Company Database.
+14:49:20.4655432          Connected to HHNI_TEST - Company Database.
+14:49:52.1630802          Connected to HHNI_TEST - Company Database.
+14:50:23.8807364          Connected to HHNI_TEST - Company Database.
+14:50:55.6945030          Connected to HHNI_TEST - Company Database.
+14:51:27.4164715          Connected to HHNI_TEST - Company Database.
+14:51:59.1075275          Connected to HHNI_TEST - Company Database.
+14:52:30.7793963          Connected to HHNI_TEST - Company Database.
+14:53:02.4955233          Connected to HHNI_TEST - Company Database.
+14:53:34.1826506          Connected to HHNI_TEST - Company Database.
+14:54:05.8377185          Connected to HHNI_TEST - Company Database.
+14:54:37.5285480          Connected to HHNI_TEST - Company Database.
+14:55:09.1967198          Connected to HHNI_TEST - Company Database.
+14:55:40.9575151          Connected to HHNI_TEST - Company Database.
+14:56:12.6170980          Connected to HHNI_TEST - Company Database.
+14:56:44.3930456          Connected to HHNI_TEST - Company Database.
+14:57:16.1691439          Connected to HHNI_TEST - Company Database.
+14:57:47.8772248          Connected to HHNI_TEST - Company Database.
+14:58:19.6697953          Connected to HHNI_TEST - Company Database.
+14:58:51.4366107          Connected to HHNI_TEST - Company Database.
+14:59:23.1084413          Connected to HHNI_TEST - Company Database.
+14:59:24.0647369          Error Processing Data - CALL FTSI_IMPORT_GET_PROCESS_DATA(17). PROCEDURE ftdbw_halcyon.FTSI_IMPORT_GET_PROCESS_DATA does not exist
+14:59:24.1453171          Error Processing Data - CALL FTSI_IMPORT_GET_PROCESS_DATA(14). Unknown database 'ftdbw_halcyon'
+14:59:24.2193175          Error Processing Data - CALL FTSI_IMPORT_GET_PROCESS_DATA(24). Unknown database 'ftdbw_halcyon'
+14:59:24.2959476          Error Processing Data - CALL FTSI_IMPORT_GET_PROCESS_DATA(2). Unknown database 'ftdbw_halcyon'
+14:59:24.3705892          Error Processing Data - CALL FTSI_IMPORT_GET_PROCESS_DATA('66'). Unknown database 'ftdbw_halcyon'
+14:59:55.2351920          Connected to HHNI_TEST - Company Database.
+14:59:56.1277064          Error Processing Data - CALL FTSI_IMPORT_GET_PROCESS_DATA(17). PROCEDURE ftdbw_halcyon.FTSI_IMPORT_GET_PROCESS_DATA does not exist
+14:59:56.2117039          Error Processing Data - CALL FTSI_IMPORT_GET_PROCESS_DATA(14). PROCEDURE ftdbw_halcyon.FTSI_IMPORT_GET_PROCESS_DATA does not exist
+14:59:56.2877086          Error Processing Data - CALL FTSI_IMPORT_GET_PROCESS_DATA(24). PROCEDURE ftdbw_halcyon.FTSI_IMPORT_GET_PROCESS_DATA does not exist
+14:59:56.3727185          Error Processing Data - CALL FTSI_IMPORT_GET_PROCESS_DATA(2). PROCEDURE ftdbw_halcyon.FTSI_IMPORT_GET_PROCESS_DATA does not exist
+14:59:56.4487055          Error Processing Data - CALL FTSI_IMPORT_GET_PROCESS_DATA('66'). PROCEDURE ftdbw_halcyon.FTSI_IMPORT_GET_PROCESS_DATA does not exist
+15:00:27.2974641          Connected to HHNI_TEST - Company Database.
+15:00:28.1701337          Error Processing Data - CALL FTSI_IMPORT_GET_PROCESS_DATA(17). PROCEDURE ftdbw_halcyon.FTSI_IMPORT_GET_PROCESS_DATA does not exist
+15:00:28.2491292          Error Processing Data - CALL FTSI_IMPORT_GET_PROCESS_DATA(14). PROCEDURE ftdbw_halcyon.FTSI_IMPORT_GET_PROCESS_DATA does not exist
+15:00:28.3271346          Error Processing Data - CALL FTSI_IMPORT_GET_PROCESS_DATA(24). PROCEDURE ftdbw_halcyon.FTSI_IMPORT_GET_PROCESS_DATA does not exist
+15:00:28.4061213          Error Processing Data - CALL FTSI_IMPORT_GET_PROCESS_DATA(2). PROCEDURE ftdbw_halcyon.FTSI_IMPORT_GET_PROCESS_DATA does not exist
+15:00:28.4811367          Error Processing Data - CALL FTSI_IMPORT_GET_PROCESS_DATA('66'). PROCEDURE ftdbw_halcyon.FTSI_IMPORT_GET_PROCESS_DATA does not exist
+15:00:59.3294165          Connected to HHNI_TEST - Company Database.
+15:01:30.9486444          Connected to HHNI_TEST - Company Database.
+15:02:03.3792033          Connected to HHNI_TEST - Company Database.
+15:02:35.6487591          Connected to HHNI_TEST - Company Database.
+15:03:07.3732098          Connected to HHNI_TEST - Company Database.
+15:03:39.1542123          Connected to HHNI_TEST - Company Database.
+15:04:10.8534222          Connected to HHNI_TEST - Company Database.
+15:04:42.5414723          Connected to HHNI_TEST - Company Database.
+15:05:14.2355960          Connected to HHNI_TEST - Company Database.
+15:05:45.9464738          Connected to HHNI_TEST - Company Database.
+15:06:17.6227362          Connected to HHNI_TEST - Company Database.
+15:06:49.4297941          Connected to HHNI_TEST - Company Database.
+15:07:21.1846092          Connected to HHNI_TEST - Company Database.
+15:07:52.9066447          Connected to HHNI_TEST - Company Database.
+15:08:24.7867831          Connected to HHNI_TEST - Company Database.
+15:08:56.4991138          Connected to HHNI_TEST - Company Database.
+15:09:28.2936852          Connected to HHNI_TEST - Company Database.
+15:10:00.0911515          Connected to HHNI_TEST - Company Database.
+15:10:31.2642363          12/10/2024 3:10:31 PM         -4009 - Failed to connect SLD, make sure SLD server is correct and available
+15:43:59.9750408          Connected to HHNI_TEST - Company Database.
+15:46:28.4847100          Connected to HHNI_TEST - Company Database.
+16:02:09.8327430          Connected to HHNI_TEST - Company Database.
+16:03:19.3691230          Connected to HHNI_TEST - Company Database.
+16:04:18.1358285          Connected to HHNI_TEST - Company Database.
+16:04:50.2304595          Connected to HHNI_TEST - Company Database.
+16:05:22.2796961          Connected to HHNI_TEST - Company Database.
+16:06:33.2185898          Connected to HHNI_TEST - Company Database.
+16:08:08.4134095          Connected to HHNI_TEST - Company Database.
+16:09:04.7303957          Connected to HHNI_TEST - Company Database.
+16:10:41.9510633          Connected to HHNI_TEST - Company Database.
+16:11:34.3153627          Errmsg -1). [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]String or binary data would be truncated in table 'HHNI_TEST.dbo.@FTISL', column 'U_TrgtDocKey'. Truncated value: '08dd18f0-dc15-4277-8185-ab1080'.
+2). [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated.
+.
+16:11:34.3153627          Error while execute transaction history log.   -  INSERT INTO "@FTISL" VALUES ('2261', '2261', 'Import', 'Master - Item Master Data', '4', '12/10/2024', '', '08dd18f0-dc15-4277-8185-ab1080e853a8', '', '1610', '1611', 'E', '-111', 'Error Processing Import. Column ''U_RefNum'' does not belong to table OITM.' )
+16:12:05.2401505          Connected to HHNI_TEST - Company Database.
+16:12:56.5992408          Connected to HHNI_TEST - Company Database.
+16:13:57.1187467          Errmsg -1). [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]String or binary data would be truncated in table 'HHNI_TEST.dbo.@FTISL', column 'U_TrgtDocKey'. Truncated value: '08dd18f0-dc15-4277-8185-ab1080'.
+2). [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated.
+.
+16:13:57.1197469          Error while execute transaction history log.   -  INSERT INTO "@FTISL" VALUES ('2261', '2261', 'Import', 'Master - Item Master Data', '4', '12/10/2024', '', '08dd18f0-dc15-4277-8185-ab1080e853a8', '', '1612', '1613', 'E', '-111', 'Error Processing Import. Column ''U_RefNum'' does not belong to table OITM.' )
+16:14:33.2682360          Connected to HHNI_TEST - Company Database.
+16:14:41.7513336          Error Processing Data - CALL FTSI_IMPORT_ITEM_MASTERDATA('08dd18f0-dc15-4277-8185-ab1080e853a8'). Unknown column 'U_Id' in 'field list'
+16:16:08.0953542          Connected to HHNI_TEST - Company Database.
+16:21:45.4009727          Connected to HHNI_TEST - Company Database.
+16:29:00.9193193          Connected to HHNI_TEST - Company Database.
+16:45:44.0501019          Connected to HHNI_TEST - Company Database.
+16:45:56.5510676          Error Processing Data - CALL FTSI_IMPORT_BILL_OF_MATERIALS('08dd18f6-b64a-4cd4-858d-665e66b3e4a9'). PROCEDURE ftdbw_halcyon.FTSI_IMPORT_BILL_OF_MATERIALS does not exist
+16:46:56.5135401          Connected to HHNI_TEST - Company Database.
+16:47:03.8203520          Error Processing Data - CALL FTSI_IMPORT_SALES_BOM('08dd18f6-b64a-4cd4-858d-665e66b3e4a9'). Unknown column 'U_Id' in 'field list'
+16:50:05.9555894          Connected to HHNI_TEST - Company Database.
+16:50:07.1026041          Add Field Failed~nTable Name: OITMField Name: RefNumField Description: Reference NumberError No : -5002Error Desciption : No records 
+16:50:07.1036091          Error Creating User Define Fields using D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\Connection Path\SBO_HHNI_TEST_ConnectSettings.ini Connection Settings.
+16:51:30.5289143          Connected to HHNI_TEST - Company Database.
+16:53:02.5036958          Connected to HHNI_TEST - Company Database.
+16:53:45.4668140          Connected to HHNI_TEST - Company Database.
+17:11:24.1944407          Connected to HHNI_TEST - Company Database.
+17:11:25.7145320          Error Processing Data - CALL FTSI_IMPORT_INCOMING_PAYMENT('08dd18fa-4f45-47d4-853d-0ddbe25374c9'). Unknown column 'T1.HeaderId' in 'where clause'
+17:11:56.2015039          Connected to HHNI_TEST - Company Database.
+17:13:18.8533470          Connected to HHNI_TEST - Company Database.
+17:14:57.0944010          Connected to HHNI_TEST - Company Database.
+17:15:07.1662369          Error Processing Data -  CALL FTSI_IMPORT_AR_CREDIT_MEMO('08dd18f9-990c-4cd7-8eb1-1ec969fcaaef'). Unknown column 'T2.GroupNum' in 'field list'
+17:17:47.2926982          Connected to HHNI_TEST - Company Database.
+17:26:05.3478983          Connected to HHNI_TEST - Company Database.
+17:30:06.6546425          Connected to HHNI_TEST - Company Database.
+17:30:13.4411165          Error Processing Data -  CALL FTSI_IMPORT_AR_CREDIT_MEMO('08dd18fc-72d2-4a17-8795-0de1a93d26d0'). Incorrect number of arguments for PROCEDURE ftdbw_halcyon.FTSI_IMPORT_AR_CREDIT_MEMO; expected 2, got 1
+17:30:44.3834693          Connected to HHNI_TEST - Company Database.
+17:33:30.7694385          Connected to HHNI_TEST - Company Database.
+17:34:36.5896425          Connected to HHNI_TEST - Company Database.

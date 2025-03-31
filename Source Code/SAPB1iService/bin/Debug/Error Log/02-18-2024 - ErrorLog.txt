@@ -1,0 +1,2 @@
+                                                      SAP Business One Integration Error Log
+13:51:55.9105864          2/18/2024 1:51:55 PM         100000085 - Add-on has already logged on with the same account in ()(2019-B1SLQSVR)

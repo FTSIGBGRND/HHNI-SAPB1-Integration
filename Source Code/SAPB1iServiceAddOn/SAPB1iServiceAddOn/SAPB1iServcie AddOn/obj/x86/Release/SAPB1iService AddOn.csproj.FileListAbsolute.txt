@@ -1,0 +1,17 @@
+C:\RnD - Daniel\KPI\FT-Kubota-Philippines-SAPB1Service\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\obj\x86\Release\SAPB1iService AddOn.csproj.AssemblyReference.cache
+C:\RnD - Daniel\KPI\FT-Kubota-Philippines-SAPB1Service\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\obj\x86\Release\SAPB1iService AddOn.csproj.SuggestedBindingRedirects.cache
+C:\RnD - Daniel\KPI\FT-Kubota-Philippines-SAPB1Service\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\obj\x86\Release\Interop.SAPbobsCOM.dll
+C:\RnD - Daniel\KPI\FT-Kubota-Philippines-SAPB1Service\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\obj\x86\Release\Interop.SAPbouiCOM.dll
+C:\RnD - Daniel\KPI\FT-Kubota-Philippines-SAPB1Service\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\obj\x86\Release\SAPB1iService AddOn.csproj.ResolveComReference.cache
+C:\RnD - Daniel\KPI\FT-Kubota-Philippines-SAPB1Service\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\obj\x86\Release\FTSISAPB1iServiceAddOn.Properties.Resources.resources
+C:\RnD - Daniel\KPI\FT-Kubota-Philippines-SAPB1Service\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\obj\x86\Release\SAPB1iService AddOn.csproj.GenerateResource.cache
+C:\RnD - Daniel\KPI\FT-Kubota-Philippines-SAPB1Service\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\obj\x86\Release\SAPB1iService AddOn.csproj.CoreCompileInputs.cache
+C:\RnD - Daniel\KPI\FT-Kubota-Philippines-SAPB1Service\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\bin\Release\FTSISAPB1iServiceAddOn.exe.config
+C:\RnD - Daniel\KPI\FT-Kubota-Philippines-SAPB1Service\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\bin\Release\FTSISAPB1iServiceAddOn.exe
+C:\RnD - Daniel\KPI\FT-Kubota-Philippines-SAPB1Service\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\bin\Release\FTSISAPB1iServiceAddOn.pdb
+C:\RnD - Daniel\KPI\FT-Kubota-Philippines-SAPB1Service\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\bin\Release\Addon.dll
+C:\RnD - Daniel\KPI\FT-Kubota-Philippines-SAPB1Service\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\bin\Release\Addon.pdb
+C:\RnD - Daniel\KPI\FT-Kubota-Philippines-SAPB1Service\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\bin\Release\Addon.dll.config
+C:\RnD - Daniel\KPI\FT-Kubota-Philippines-SAPB1Service\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\obj\x86\Release\SAPB1iService AddOn.csproj.CopyComplete
+C:\RnD - Daniel\KPI\FT-Kubota-Philippines-SAPB1Service\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\obj\x86\Release\FTSISAPB1iServiceAddOn.exe
+C:\RnD - Daniel\KPI\FT-Kubota-Philippines-SAPB1Service\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\obj\x86\Release\FTSISAPB1iServiceAddOn.pdb

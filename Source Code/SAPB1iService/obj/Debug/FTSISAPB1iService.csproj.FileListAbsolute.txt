@@ -1,0 +1,337 @@
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\FTSISAPB1iService.exe.config
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\FTSISAPB1iService.exe
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\FTSISAPB1iService.pdb
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\BouncyCastle.Crypto.dll
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\Google.Protobuf.dll
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\K4os.Compression.LZ4.dll
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\K4os.Hash.xxHash.dll
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\MySql.Data.dll
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\MySqlConnector.dll
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\Newtonsoft.Json.dll
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\PgpCore.dll
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\Renci.SshNet.dll
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\System.Buffers.dll
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\System.IO.Pipelines.dll
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\System.Memory.dll
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\System.Numerics.Vectors.dll
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\ZstdSharp.dll
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\stdole.dll
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\BouncyCastle.Crypto.xml
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\Google.Protobuf.pdb
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\Google.Protobuf.xml
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\K4os.Compression.LZ4.xml
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\K4os.Hash.xxHash.xml
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\MySql.Data.xml
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\MySqlConnector.xml
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\Newtonsoft.Json.xml
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\Newtonsoft.Json.Bson.pdb
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\Renci.SshNet.xml
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\System.Buffers.xml
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\System.IO.Pipelines.xml
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\System.Memory.xml
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\System.Numerics.Vectors.xml
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.csproj.AssemblyReference.cache
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.csproj.SuggestedBindingRedirects.cache
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.exe.config
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.csproj.ResolveComReference.cache
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.ProjectInstaller.resources
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.SAPB1Service.resources
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.csproj.GenerateResource.cache
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.csproj.CoreCompileInputs.cache
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.csproj.CopyComplete
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.exe
+D:\Fasttrack\Projects\TWFLI\FT-TWFLI-POS-Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.pdb
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\FTSISAPB1iService.exe.config
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\FTSISAPB1iService.exe
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\FTSISAPB1iService.pdb
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\Google.Protobuf.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\MySql.Data.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\MySqlConnector.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\PgpCore.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\Renci.SshNet.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\System.Buffers.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\System.Memory.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\ZstdSharp.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\stdole.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\Google.Protobuf.pdb
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\Google.Protobuf.xml
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\MySql.Data.xml
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\MySqlConnector.xml
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\Renci.SshNet.xml
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\System.Buffers.xml
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\System.Memory.xml
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.csproj.AssemblyReference.cache
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.exe.config
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.csproj.ResolveComReference.cache
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.ProjectInstaller.resources
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.SAPB1Service.resources
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.csproj.GenerateResource.cache
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.csproj.CoreCompileInputs.cache
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\obj\Debug\FTSISAPB.F328B2CA.Up2Date
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.exe
+C:\Users\Hohosan\source\repos\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.pdb
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.csproj.AssemblyReference.cache
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.csproj.SuggestedBindingRedirects.cache
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.exe.config
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.csproj.ResolveComReference.cache
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.ProjectInstaller.resources
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.SAPB1Service.resources
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.csproj.GenerateResource.cache
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.csproj.CoreCompileInputs.cache
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\FTSISAPB1iService.exe.config
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\FTSISAPB1iService.exe
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\FTSISAPB1iService.pdb
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\BouncyCastle.Crypto.dll
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\Google.Protobuf.dll
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\K4os.Compression.LZ4.dll
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\K4os.Hash.xxHash.dll
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\MySql.Data.dll
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\MySqlConnector.dll
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\Newtonsoft.Json.dll
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\PgpCore.dll
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\Renci.SshNet.dll
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\System.Buffers.dll
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\System.IO.Pipelines.dll
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\System.Memory.dll
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\System.Numerics.Vectors.dll
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\ZstdSharp.dll
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\stdole.dll
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\BouncyCastle.Crypto.xml
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\Google.Protobuf.pdb
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\Google.Protobuf.xml
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\K4os.Compression.LZ4.xml
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\K4os.Hash.xxHash.xml
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\MySql.Data.xml
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\MySqlConnector.xml
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\Newtonsoft.Json.xml
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\Renci.SshNet.xml
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\System.Buffers.xml
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\System.IO.Pipelines.xml
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\System.Memory.xml
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\System.Numerics.Vectors.xml
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.csproj.CopyComplete
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.exe
+C:\Rnd - Jojo\BPITC-SAPB1-Integration\Source Code\BPITC - POS Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.pdb
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\FTSISAPB1iService.exe.config
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\FTSISAPB1iService.exe
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\FTSISAPB1iService.pdb
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\BouncyCastle.Crypto.dll
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\BouncyCastle.Cryptography.dll
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\DocumentFormat.OpenXml.dll
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\Google.Protobuf.dll
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\K4os.Compression.LZ4.dll
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\K4os.Hash.xxHash.dll
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\MySql.Data.dll
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\MySqlConnector.dll
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\Newtonsoft.Json.dll
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\PgpCore.dll
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\Renci.SshNet.dll
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\System.Buffers.dll
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\System.IO.Pipelines.dll
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\System.Memory.dll
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\System.Numerics.Vectors.dll
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\ZstdSharp.dll
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\stdole.dll
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\BouncyCastle.Crypto.xml
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\BouncyCastle.Cryptography.xml
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\DocumentFormat.OpenXml.xml
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\Google.Protobuf.pdb
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\Google.Protobuf.xml
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\K4os.Compression.LZ4.xml
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\K4os.Hash.xxHash.xml
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\MySql.Data.xml
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\MySqlConnector.xml
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\Newtonsoft.Json.xml
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\Newtonsoft.Json.Bson.pdb
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\Renci.SshNet.xml
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\System.Buffers.xml
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\System.IO.Pipelines.xml
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\System.Memory.xml
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\System.Numerics.Vectors.xml
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.csproj.AssemblyReference.cache
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.csproj.SuggestedBindingRedirects.cache
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.exe.config
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\obj\Debug\Interop.SAPbobsCOM.dll
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.csproj.ResolveComReference.cache
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.ProjectInstaller.resources
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.SAPB1Service.resources
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.csproj.GenerateResource.cache
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.csproj.CoreCompileInputs.cache
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\obj\Debug\FTSISAPB.F328B2CA.Up2Date
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.exe
+D:\RnD - Jojo\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.pdb
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\FTSISAPB1iService.exe.config
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\FTSISAPB1iService.exe
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\FTSISAPB1iService.pdb
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\BouncyCastle.Crypto.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\CrystalDecisions.Shared.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\Google.Protobuf.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\K4os.Compression.LZ4.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\K4os.Hash.xxHash.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\MySql.Data.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\MySqlConnector.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\Newtonsoft.Json.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\PgpCore.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\Renci.SshNet.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\System.Buffers.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\System.IO.Pipelines.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\System.Memory.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\System.Numerics.Vectors.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\ZstdSharp.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\stdole.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\BouncyCastle.Crypto.xml
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\Google.Protobuf.pdb
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\Google.Protobuf.xml
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\K4os.Compression.LZ4.xml
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\K4os.Hash.xxHash.xml
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\MySql.Data.xml
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\MySqlConnector.xml
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\Newtonsoft.Json.xml
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\Renci.SshNet.xml
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\System.Buffers.xml
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\System.IO.Pipelines.xml
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\System.Memory.xml
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\System.Numerics.Vectors.xml
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.csproj.AssemblyReference.cache
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.csproj.SuggestedBindingRedirects.cache
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.exe.config
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.csproj.ResolveComReference.cache
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.ProjectInstaller.resources
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.SAPB1Service.resources
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.csproj.GenerateResource.cache
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.csproj.CoreCompileInputs.cache
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\obj\Debug\FTSISAPB.F328B2CA.Up2Date
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.exe
+C:\Fasttrack Files\Fasttrack Projects\HHNI SAPB1 Integration\Source Code\HHNI - Integration\SAPB1iService\obj\Debug\FTSISAPB1iService.pdb

@@ -1,0 +1,20 @@
+                                                      SAP Business One Integration Error Log
+17:15:16.0253408          12/1/2024 5:15:16 PM         100000085 - Add-on has already logged on with the same account in ()(2019-B1SLQSVR)
+17:16:53.4129917          12/1/2024 5:16:53 PM         100000085 - Add-on has already logged on with the same account in ()(2019-B1SLQSVR)
+17:27:35.7545813          Connected to HHNI_TEST - Company Database.
+17:30:35.6131926          Connected to HHNI_TEST - Company Database.
+17:32:58.8035617          Connected to HHNI_TEST - Company Database.
+17:33:08.4964070          Error Processing Data - CALL FTSI_IMPORT_ITEM_MASTERDATA('08dd11ca-ff81-408a-807d-216b5e8b842c'). Table 'ftdbw_halcyon.ftitm1' doesn't exist
+17:39:14.7028742          Connected to HHNI_TEST - Company Database.
+17:41:05.8061499          Connected to HHNI_TEST - Company Database.
+17:41:43.2009049          Error Processing Data -  CALL FTSI_IMPORT_SALE_ORDER('08dd11cc-5eda-4495-8fbd-bae93921c66c', 'S'). PROCEDURE ftdbw_halcyon.FTSI_IMPORT_SALE_ORDER does not exist
+17:42:53.3381338          Connected to HHNI_TEST - Company Database.
+17:43:01.6315435          Error Processing Data -  CALL FTSI_IMPORT_SALES_ORDER('08dd11cc-5eda-4495-8fbd-bae93921c66c', 'S'). Incorrect number of arguments for PROCEDURE ftdbw_halcyon.FTSI_IMPORT_SALES_ORDER; expected 1, got 2
+17:45:02.9484367          Connected to HHNI_TEST - Company Database.
+17:45:10.3221850          Error Processing Data -  CALL FTSI_IMPORT_SALES_ORDER('08dd11cc-5eda-4495-8fbd-bae93921c66c'). Unknown column 'T2.GroupNum' in 'field list'
+17:49:57.7978144          Connected to HHNI_TEST - Company Database.
+17:50:04.5540062          Error Processing Data -  CALL FTSI_IMPORT_SALES_ORDER('08dd11cc-5eda-4495-8fbd-bae93921c66c'). Unknown column 'T1.HeaderId' in 'where clause'
+17:51:19.0050205          Connected to HHNI_TEST - Company Database.
+17:53:35.2127976          Connected to HHNI_TEST - Company Database.
+17:55:31.2400626          Connected to HHNI_TEST - Company Database.
+17:57:38.8739424          Connected to HHNI_TEST - Company Database.

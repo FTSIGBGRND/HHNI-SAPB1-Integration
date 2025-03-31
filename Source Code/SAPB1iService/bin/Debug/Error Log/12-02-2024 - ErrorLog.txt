@@ -1,0 +1,120 @@
+                                                      SAP Business One Integration Error Log
+10:52:20.8980961          Connected to HHNI_TEST - Company Database.
+11:00:46.5930191          Connected to HHNI_TEST - Company Database.
+11:22:05.0637973          Connected to HHNI_TEST - Company Database.
+11:22:16.7410311          Error Processing Data - CALL FTSI_IMPORT_GET_PROCESS_DATA(17). Column 'Id' in field list is ambiguous
+11:23:40.6897819          Connected to HHNI_TEST - Company Database.
+11:24:31.9796178          Connected to HHNI_TEST - Company Database.
+11:25:31.1830324          Connected to HHNI_TEST - Company Database.
+11:26:46.0702383          Connected to HHNI_TEST - Company Database.
+11:29:13.3039676          Connected to HHNI_TEST - Company Database.
+11:33:59.6468754          Connected to HHNI_TEST - Company Database.
+11:37:07.2037141          Connected to HHNI_TEST - Company Database.
+11:37:55.0509348          Connected to HHNI_TEST - Company Database.
+11:42:52.0187824          Connected to HHNI_TEST - Company Database.
+11:44:17.4483664          Connected to HHNI_TEST - Company Database.
+11:47:00.9033533          Connected to HHNI_TEST - Company Database.
+12:09:02.6087398          Connected to HHNI_TEST - Company Database.
+13:22:06.8916979          Connected to HHNI_TEST - Company Database.
+13:23:41.8505682          Connected to HHNI_TEST - Company Database.
+13:32:01.3542226          Connected to HHNI_TEST - Company Database.
+13:32:02.8382058          Error Processing Data - CALL FTSI_IMPORT_SALES_ORDER('08dd1272-c162-4ede-8edc-3375e9c294eb'). Unknown column 'ItemName' in 'field list'
+13:32:33.7791352          Connected to HHNI_TEST - Company Database.
+13:32:34.8281582          Error Processing Data - CALL FTSI_IMPORT_SALES_ORDER('08dd1272-c162-4ede-8edc-3375e9c294eb'). Unknown column 'ItemName' in 'field list'
+13:33:05.7259694          Connected to HHNI_TEST - Company Database.
+13:33:06.6794347          Error Processing Data - CALL FTSI_IMPORT_SALES_ORDER('08dd1272-c162-4ede-8edc-3375e9c294eb'). Unknown column 'ItemName' in 'field list'
+13:33:37.6720686          Connected to HHNI_TEST - Company Database.
+13:33:38.6745550          Error Processing Data - CALL FTSI_IMPORT_SALES_ORDER('08dd1272-c162-4ede-8edc-3375e9c294eb'). Unknown column 'ItemName' in 'field list'
+13:34:09.6156531          Connected to HHNI_TEST - Company Database.
+13:34:10.5571022          Error Processing Data - CALL FTSI_IMPORT_SALES_ORDER('08dd1272-c162-4ede-8edc-3375e9c294eb'). Unknown column 'ItemName' in 'field list'
+13:34:41.4623894          Connected to HHNI_TEST - Company Database.
+13:34:42.4154112          Error Processing Data - CALL FTSI_IMPORT_SALES_ORDER('08dd1272-c162-4ede-8edc-3375e9c294eb'). Unknown column 'ItemName' in 'field list'
+13:35:13.3425281          Connected to HHNI_TEST - Company Database.
+13:35:14.3249471          Error Processing Data - CALL FTSI_IMPORT_SALES_ORDER('08dd1272-c162-4ede-8edc-3375e9c294eb'). Unknown column 'ItemName' in 'field list'
+13:35:53.4792264          Connected to HHNI_TEST - Company Database.
+13:35:54.9774210          Error Processing Data - CALL FTSI_IMPORT_SALES_ORDER('08dd1272-c162-4ede-8edc-3375e9c294eb'). Unknown column 'ItemName' in 'field list'
+13:36:25.9974652          Connected to HHNI_TEST - Company Database.
+13:36:27.1682445          Error Processing Data - CALL FTSI_IMPORT_SALES_ORDER('08dd1272-c162-4ede-8edc-3375e9c294eb'). Unknown column 'ItemName' in 'field list'
+13:36:58.2488146          Connected to HHNI_TEST - Company Database.
+13:36:59.3723891          Error Processing Data - CALL FTSI_IMPORT_SALES_ORDER('08dd1272-c162-4ede-8edc-3375e9c294eb'). Unknown column 'ItemName' in 'field list'
+13:37:30.3854292          Connected to HHNI_TEST - Company Database.
+13:37:31.4758988          Error Processing Data - CALL FTSI_IMPORT_SALES_ORDER('08dd1272-c162-4ede-8edc-3375e9c294eb'). Unknown column 'ItemName' in 'field list'
+13:38:02.5028318          Connected to HHNI_TEST - Company Database.
+13:38:03.5940072          Error Processing Data - CALL FTSI_IMPORT_SALES_ORDER('08dd1272-c162-4ede-8edc-3375e9c294eb'). Unknown column 'ItemName' in 'field list'
+13:44:50.3197208          Connected to HHNI_TEST - Company Database.
+14:21:27.3940651          Connected to HHNI_TEST - Company Database.
+14:22:57.4489194          Connected to HHNI_TEST - Company Database.
+14:23:30.1968622          Connected to HHNI_TEST - Company Database.
+14:24:02.4316171          Connected to HHNI_TEST - Company Database.
+14:26:16.1978240          Connected to HHNI_TEST - Company Database.
+14:31:11.7937031          Connected to HHNI_TEST - Company Database.
+14:33:22.5707921          Connected to HHNI_TEST - Company Database.
+14:35:37.3094338          Connected to HHNI_TEST - Company Database.
+14:43:33.9790035          Connected to HHNI_TEST - Company Database.
+15:05:20.8425196          Connected to HHNI_TEST - Company Database.
+17:22:35.3787911          Connected to HHNI_TEST - Company Database.
+17:41:38.7372456          Connected to HHNI_TEST - Company Database.
+17:45:00.3451487          Connected to HHNI_TEST - Company Database.
+17:45:32.4429130          Connected to HHNI_TEST - Company Database.
+17:46:04.4561674          Connected to HHNI_TEST - Company Database.
+17:46:36.4810899          Connected to HHNI_TEST - Company Database.
+17:47:08.4406532          Connected to HHNI_TEST - Company Database.
+17:47:40.3550663          Connected to HHNI_TEST - Company Database.
+17:48:12.2685427          Connected to HHNI_TEST - Company Database.
+17:48:44.1669031          Connected to HHNI_TEST - Company Database.
+17:49:16.1413073          Connected to HHNI_TEST - Company Database.
+17:49:48.1936165          Connected to HHNI_TEST - Company Database.
+17:50:19.9829595          Connected to HHNI_TEST - Company Database.
+17:50:51.8561317          Connected to HHNI_TEST - Company Database.
+17:51:23.6474739          Connected to HHNI_TEST - Company Database.
+17:51:55.5432189          Connected to HHNI_TEST - Company Database.
+17:52:27.4208265          Connected to HHNI_TEST - Company Database.
+17:52:59.2529149          Connected to HHNI_TEST - Company Database.
+17:53:31.2756874          Connected to HHNI_TEST - Company Database.
+17:54:03.3570579          Connected to HHNI_TEST - Company Database.
+17:54:35.5252254          Connected to HHNI_TEST - Company Database.
+17:55:07.7828234          Connected to HHNI_TEST - Company Database.
+17:55:39.9979955          Connected to HHNI_TEST - Company Database.
+17:56:12.1140355          Connected to HHNI_TEST - Company Database.
+17:56:44.1127774          Connected to HHNI_TEST - Company Database.
+17:57:15.9953501          Connected to HHNI_TEST - Company Database.
+17:57:48.1100409          Connected to HHNI_TEST - Company Database.
+17:58:20.1381287          Connected to HHNI_TEST - Company Database.
+17:58:52.0266186          Connected to HHNI_TEST - Company Database.
+17:59:23.9463754          Connected to HHNI_TEST - Company Database.
+17:59:55.8986816          Connected to HHNI_TEST - Company Database.
+18:00:27.7546964          Connected to HHNI_TEST - Company Database.
+18:00:59.7577446          Connected to HHNI_TEST - Company Database.
+18:01:31.7122491          Connected to HHNI_TEST - Company Database.
+18:02:03.6708770          Connected to HHNI_TEST - Company Database.
+18:02:35.6278773          Connected to HHNI_TEST - Company Database.
+18:03:07.6671005          Connected to HHNI_TEST - Company Database.
+18:03:39.5340329          Connected to HHNI_TEST - Company Database.
+18:04:11.3937721          Connected to HHNI_TEST - Company Database.
+18:04:43.2243946          Connected to HHNI_TEST - Company Database.
+18:05:15.0955032          Connected to HHNI_TEST - Company Database.
+18:05:46.8931101          Connected to HHNI_TEST - Company Database.
+18:06:18.8905284          Connected to HHNI_TEST - Company Database.
+18:06:50.7182724          Connected to HHNI_TEST - Company Database.
+18:07:22.5781057          Connected to HHNI_TEST - Company Database.
+18:07:54.4179746          Connected to HHNI_TEST - Company Database.
+18:08:26.2329782          Connected to HHNI_TEST - Company Database.
+18:08:58.0979793          Connected to HHNI_TEST - Company Database.
+18:09:30.0257718          Connected to HHNI_TEST - Company Database.
+18:10:01.9121143          Connected to HHNI_TEST - Company Database.
+18:10:33.7556114          Connected to HHNI_TEST - Company Database.
+18:11:05.7897455          Connected to HHNI_TEST - Company Database.
+18:11:37.9018768          Connected to HHNI_TEST - Company Database.
+18:12:09.8367117          Connected to HHNI_TEST - Company Database.
+18:12:41.7710851          Connected to HHNI_TEST - Company Database.
+18:13:13.5687311          Connected to HHNI_TEST - Company Database.
+18:13:45.4496768          Connected to HHNI_TEST - Company Database.
+18:14:17.3463870          Connected to HHNI_TEST - Company Database.
+18:14:49.1801032          Connected to HHNI_TEST - Company Database.
+18:25:28.9700354          Connected to HHNI_TEST - Company Database.
+18:26:27.0834450          Connected to HHNI_TEST - Company Database.
+18:26:58.9988665          Connected to HHNI_TEST - Company Database.
+18:27:31.0121759          Connected to HHNI_TEST - Company Database.
+18:28:17.6495454          Connected to HHNI_TEST - Company Database.
+18:28:49.4224772          Connected to HHNI_TEST - Company Database.
+18:29:21.1808507          Connected to HHNI_TEST - Company Database.

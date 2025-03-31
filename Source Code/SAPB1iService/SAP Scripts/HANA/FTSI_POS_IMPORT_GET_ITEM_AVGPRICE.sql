@@ -1,0 +1,12 @@
+CREATE PROCEDURE "FTSI_POS_IMPORT_GET_ITEM_AVGPRICE"(
+	IN ItemCode VARCHAR(20)
+)
+AS
+BEGIN
+
+SELECT a."AvgPrice" 
+
+FROM OITM a 
+            
+WHERE a."ItemCode" = :ItemCode;
+END;
