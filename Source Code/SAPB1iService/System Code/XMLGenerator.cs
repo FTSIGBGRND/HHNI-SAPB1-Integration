@@ -8,7 +8,7 @@ namespace FTSISAPB1iService
 {
     public class XMLGenerator
     {
-        public static void GenerateXMLFile(SAPbobsCOM.BoObjectTypes boObjectTypes, DataSet dataSet, string filePath)
+        public static bool GenerateXMLFile(SAPbobsCOM.BoObjectTypes boObjectTypes, DataSet dataSet, string filePath)
         {
             try
             {
@@ -56,11 +56,17 @@ namespace FTSISAPB1iService
 
                     xmlWriter.Close();
                 }
+                return true;
             }
             catch (Exception ex)
             {
                 SystemFunction.errorAppend( string.Format("Failed to Generate XML File. {0}. {1}", filePath, ex.Message));
-                throw ex;
+                //throw ex;
+
+                GlobalVariable.intErrNum = -111;
+                GlobalVariable.strErrMsg = ex.Message;
+
+                return false;
             }
         }
     }

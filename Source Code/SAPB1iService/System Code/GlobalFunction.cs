@@ -957,5 +957,21 @@ namespace FTSISAPB1iService
             else
                 return false;
         }
+
+        public static bool checkMasterData(string strDescription, string strTableHeader, string strColumnName)
+        {
+            SAPbobsCOM.Recordset oRecordset = (SAPbobsCOM.Recordset)GlobalVariable.oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset);
+
+            // Validation: Check if U_RefNum exists in OINV
+            string validationQuery = $"SELECT COUNT(*) AS RecordCount FROM {strTableHeader} WHERE {strColumnName} = '{strDescription}'";
+            oRecordset.DoQuery(validationQuery);
+
+            int recordCount = (int)oRecordset.Fields.Item("RecordCount").Value;
+
+            if (recordCount > 0)
+                return true;
+            else
+                return false;
+        }
     }
 }

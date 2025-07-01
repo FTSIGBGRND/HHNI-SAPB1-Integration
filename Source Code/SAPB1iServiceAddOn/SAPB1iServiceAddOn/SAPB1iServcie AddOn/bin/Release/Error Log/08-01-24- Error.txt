@@ -1,0 +1,6 @@
+1/8/2024 12:00:00 AM          SAP Business One AddOn Error Log
+16:03:01.3947308          Errmsg -Form - Invalid Form. Errorcode - -2028  Msg - No matching records found (ODBC -2028)
+16:03:01.4409589          Errmsg -Form - Invalid Form. Errorcode - -2028  Msg - No matching records found (ODBC -2028)
+16:03:01.5025717          Errmsg -Form - Invalid Form. Errorcode - -2028  Msg - No matching records found (ODBC -2028)
+16:03:01.5488262          Errmsg -Form - Invalid Form. Errorcode - -2028  Msg - No matching records found (ODBC -2028)
+16:03:01.5752054          Errmsg -Form - Invalid Form. Errorcode - -2028  Msg - No matching records found (ODBC -2028)

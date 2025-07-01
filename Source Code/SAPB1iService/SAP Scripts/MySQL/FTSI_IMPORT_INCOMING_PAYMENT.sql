@@ -9,24 +9,18 @@ CREATE DEFINER=`root`@`localhost` PROCEDURE `FTSI_IMPORT_INCOMING_PAYMENT`(
 )
 BEGIN
 	-- HEADER --
-	SELECT  CardCode,
+	SELECT  	CardCode,
 			CardName,
-			DocDate,
-			DocDueDate,
-			TaxDate,
+			DATE_FORMAT(T1.DocDate, "%Y%m%d") 'DocDate',
+			DATE_FORMAT(T1.DocDueDate, "%Y%m%d") 'DocDueDate',
+			DATE_FORMAT(T1.TaxDate, "%Y%m%d") 'TaxDate',
 			DocType,
 			U_RefNum, 
 			U_FileName,
+			TrsfrAcct,
+			DocTotal,
 			Id AS 'U_Id'
-			
 	FROM ftorct T1
-	WHERE T1.Id = Id;
-	-- Lines --
-	SELECT  TrsfrAcct,
-			Total,
-			U_RefNum
-
-	FROM ftrct1 T1
 	WHERE T1.HeaderId = Id;
 END$$
 

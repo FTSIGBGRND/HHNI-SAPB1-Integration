@@ -9,32 +9,30 @@ CREATE DEFINER=`root`@`localhost` PROCEDURE `FTSI_IMPORT_BP_MASTERDATA`(
 )
 BEGIN
 	-- HEADER --
-	SELECT		Series, 
-			CardCode, 
+	SELECT		Series,
+			CardName,
 			U_CompanyID,
 			U_ChargeTo,
 			U_LegalEntity, 
-			CardName, 
 			GroupCode, 
 			Currency,
-			U_Id
-
-	FROM ftocrd T1
-	WHERE T1.Id = Id;
-	-- Addresses Table --
-	SELECT		GroupNum, 
+			GroupNum, 
 			DebPayAcct, 
 			VatStatus, 
-			ECVatGroup, 
-			WTLiable, 
+			WTLiable AS 'WtLiable', 
 			WTCode, 
 			E_mail, 
 			Address, 
-			CntctPrsn, 
 			Discount,
+			Id AS 'U_Id',
 			U_RefNum
 		
-	FROM ftcrd1 T1 
+	FROM ftocrd T1 
+	WHERE T1.Id = Id;
+	
+	-- Contact Employee -- 
+	SELECT		NAME AS 'Name'
+	FROM ftocpr T1 
 	WHERE T1.Id = Id;
 END$$
 

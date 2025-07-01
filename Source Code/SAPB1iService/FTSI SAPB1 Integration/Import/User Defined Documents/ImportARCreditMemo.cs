@@ -48,58 +48,62 @@ namespace FTSISAPB1iService
 
                     try
                     {
-                        SAPbobsCOM.Recordset oRecordset = (SAPbobsCOM.Recordset)GlobalVariable.oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset);
-
                         // Validation: Check if U_RefNum exists
-                        if (!GlobalFunction.checkRefNum(strU_RefNum, GlobalVariable.strTableHeader))
+                        if (GlobalFunction.checkRefNum(strU_RefNum, GlobalVariable.strTableHeader))
                         {
-                            // Get DataSet from Stored Procedure
-                            DataSet dsBusinessObject = SQLSettings.getDataFromMySQL(string.Format(" CALL FTSI_IMPORT_AR_CREDIT_MEMO('{0}', '{1}', '{2}')", strId, strDocCur, strDocType));
+                            SystemFunction.transHandler("Import", strTransType, GlobalVariable.intObjType.ToString(), Path.GetFileName(strXmlPath), "", strU_RefNum, dteStart, "E", "", $"Validation failed: U_RefNum '{strU_RefNum}' already exists.");
+                            SQLSettings.executeQuery(string.Format("UPDATE {0} SET IntegrationStatus = 'E', IntegrationMessage = \"U_RefNum already exist\" WHERE Id = '{1}'", strMySQLTable, strId));
 
-                            // Rename DataTables
-                            // NOTE: Make sure to rename DataTable because the names will be used as TAGS in XML file.
-                            dsBusinessObject.Tables[0].TableName = "ORIN";
-                            dsBusinessObject.Tables[1].TableName = "RIN1";
+                            GC.Collect();
+                            continue; //Move on to the next DataRow in the loop;
+                        }
 
-                            // Process XML File
-                            strXmlPath = GenerateFilePath(dsBusinessObject.Tables["ORIN"].Rows[0]["U_RefNum"].ToString());
-                            XMLGenerator.GenerateXMLFile(GlobalVariable.oObjectType, dsBusinessObject, strXmlPath);
+                        // Get DataSet from Stored Procedure
+                        DataSet dsBusinessObject = SQLSettings.getDataFromMySQL(string.Format(" CALL FTSI_IMPORT_AR_CREDIT_MEMO('{0}', '{1}', '{2}')", strId, strDocCur, strDocType));
 
+                        // Rename DataTables
+                        // NOTE: Make sure to rename DataTable because the names will be used as TAGS in XML file.
+                        dsBusinessObject.Tables[0].TableName = "ORIN";
+                        dsBusinessObject.Tables[1].TableName = "RIN1";
 
-                            // Start Import Process
-                            StartCompanyTransaction();
+                        // Process XML File
+                        strXmlPath = GenerateFilePath(dsBusinessObject.Tables["ORIN"].Rows[0]["U_RefNum"].ToString());
 
-                            if (ImportDocumentsXML.importTempXMLDocument(strXmlPath, strId))
-                            {
-                                // Get Posted DocEntry and DocNum
-                                strPostDocEntry = GlobalVariable.oCompany.GetNewObjectKey().ToString();
-                                strPostDocNum = GlobalFunction.getDocNum(GlobalVariable.intObjType, strPostDocEntry);
+                        if (!XMLGenerator.GenerateXMLFile(GlobalVariable.oObjectType, dsBusinessObject, strXmlPath))
+                        {
+                            // Update Staging DB
+                            SQLSettings.executeQuery(string.Format("UPDATE {0} SET IntegrationStatus = 'E', IntegrationMessage = \"Failed to Generate XML File\" WHERE Id = '{1}'", strMySQLTable, strId));
 
-                                // Output to Integration Log
-                                SystemFunction.transHandler("Import", strTransType, GlobalVariable.intObjType.ToString(), Path.GetFileName(strXmlPath), strPostDocEntry, strPostDocNum, dteStart, "S", GlobalVariable.intObjType.ToString(), string.Format("Successfully Posted {0}", strTransType));
+                            GC.Collect();
+                            continue;
+                        }
 
-                                // Update Staging DB
-                                SQLSettings.executeQuery(string.Format("UPDATE {0} SET Posted = 'Y', IntegrationStatus = 'S', DocNum = {1} , IntegrationMessage = \"Successfully Posted\" WHERE Id = '{2}'", strMySQLTable, strPostDocNum, strId));
+                        // Start Import Process
+                        StartCompanyTransaction();
 
-                                EndCompanyTransaction(BoWfTransOpt.wf_Commit);
-                            }
-                            else
-                            {
-                                // Output to Integration Log
-                                SystemFunction.transHandler("Import", strTransType, GlobalVariable.intObjType.ToString(), Path.GetFileName(strXmlPath), "", "", dteStart, "E", "-" + GlobalVariable.intObjType.ToString(), string.Format("Error Posting SAP Business Object: {0}", GlobalVariable.strErrMsg.Replace("\\", "").Replace("\"", "'")));
+                        if (ImportDocumentsXML.importTempXMLDocument(strXmlPath, strId))
+                        {
+                            // Get Posted DocEntry and DocNum
+                            strPostDocEntry = GlobalVariable.oCompany.GetNewObjectKey().ToString();
+                            strPostDocNum = GlobalFunction.getDocNum(GlobalVariable.intObjType, strPostDocEntry);
 
-                                // Update Staging DB
-                                SQLSettings.executeQuery(string.Format("UPDATE {0} SET Posted = 'E', IntegrationStatus = 'E', IntegrationMessage = \"{1}\" WHERE Id = '{2}'", strMySQLTable, GlobalVariable.strErrMsg.Replace("\\", "").Replace("\"", "'"), strId));
+                            // Output to Integration Log
+                            SystemFunction.transHandler("Import", strTransType, GlobalVariable.intObjType.ToString(), Path.GetFileName(strXmlPath), strPostDocEntry, strPostDocNum, dteStart, "S", GlobalVariable.intObjType.ToString(), string.Format("Successfully Posted {0}", strTransType));
 
-                                EndCompanyTransaction(BoWfTransOpt.wf_RollBack);
-                            }
+                            // Update Staging DB
+                            SQLSettings.executeQuery(string.Format("UPDATE {0} SET IntegrationStatus = 'S', DocNum = {1} , IntegrationMessage = \"Successfully Posted\" WHERE Id = '{2}'", strMySQLTable, strPostDocNum, strId));
+
+                            EndCompanyTransaction(BoWfTransOpt.wf_Commit);
                         }
                         else
                         {
-                            SystemFunction.transHandler("Import", strTransType, GlobalVariable.intObjType.ToString(), Path.GetFileName(strXmlPath), "", strU_RefNum, dteStart, "E", "", $"Validation failed: U_RefNum '{strU_RefNum}' already exists.");
+                            // Output to Integration Log
+                            SystemFunction.transHandler("Import", strTransType, GlobalVariable.intObjType.ToString(), Path.GetFileName(strXmlPath), "", "", dteStart, "E", "-" + GlobalVariable.intObjType.ToString(), string.Format("Error Posting SAP Business Object: {0}", GlobalVariable.strErrMsg.Replace("\\", "").Replace("\"", "'")));
 
                             // Update Staging DB
-                            SQLSettings.executeQuery(string.Format("UPDATE {0} SET Posted = 'E', IntegrationStatus = 'E', IntegrationMessage = \"U_RefNum already exist\" WHERE Id = '{1}'", strMySQLTable, strId));
+                            SQLSettings.executeQuery(string.Format("UPDATE {0} SET IntegrationStatus = 'E', IntegrationMessage = \"{1}\" WHERE Id = '{2}'", strMySQLTable, GlobalVariable.strErrMsg.Replace("\\", "").Replace("\"", "'"), strId));
+
+                            EndCompanyTransaction(BoWfTransOpt.wf_RollBack);
                         }
                     }
                     catch (Exception ex)

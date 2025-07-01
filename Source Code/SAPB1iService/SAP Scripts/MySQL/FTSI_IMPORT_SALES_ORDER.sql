@@ -5,7 +5,7 @@ USE `ftdbw_halcyon`$$
 DROP PROCEDURE IF EXISTS `FTSI_IMPORT_SALES_ORDER`$$
 
 CREATE DEFINER=`root`@`localhost` PROCEDURE `FTSI_IMPORT_SALES_ORDER`(
-	IN Id VARCHAR(36), DocCur VARCHAR(5)
+	IN Id VARCHAR(36), DocCur VARCHAR(5), DocType VARCHAR(1)
 )
 BEGIN
 	-- HEADER --
@@ -41,11 +41,17 @@ BEGIN
 	FROM ftordr T1
 		WHERE T1.Id = Id;
 	END IF;
-
+	
+	-- Item Type --
+	
+	IF DocType = 'I' THEN
 	-- LINES --
-	SELECT	DESCRIPTION AS 'Dscription',
+	SELECT	LineNum,
+		ItemCode,
+		DESCRIPTION AS 'Dscription',
 		Quantity,
-		Price,
+		Price AS 'PriceBefDi',
+		VatGroup,
 		U_ArNo,
 		U_NameOfCrew,
 		U_Peme,
@@ -56,10 +62,37 @@ BEGIN
 		OcrCode,
 		DiscPrcnt,
 		U_DiscType
-
+		
 	FROM ftrdr1 T1
 	WHERE T1.Id = Id;
-
+	
+	END IF;
+	
+	-- Service Type --
+	
+	IF DocType = 'S' THEN
+	-- LINES --
+	SELECT	LineNum,
+		DESCRIPTION AS 'Dscription',
+		AccountCode AS 'AcctCode',
+		Quantity,
+		Price AS 'PriceBefDi',
+		VatGroup,
+		U_ArNo,
+		U_NameOfCrew,
+		U_Peme,
+		U_Principal,
+		U_Vessel,
+		U_Position,
+		U_Age,
+		OcrCode,
+		DiscPrcnt,
+		U_DiscType
+		
+	FROM ftrdr1 T1
+	WHERE T1.Id = Id;
+	
+	END IF;
 END$$
 
 DELIMITER ;

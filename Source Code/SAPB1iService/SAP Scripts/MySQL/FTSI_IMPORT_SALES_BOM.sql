@@ -13,14 +13,13 @@ BEGIN
 			NAME AS 'Name',
 			TreeType,
 			U_RefNum,
-			U_Id
-
+			Id AS 'U_Id'
 	FROM ftoitt T1
 	WHERE T1.Id = Id;
-
 	-- Addresses Table --
 	SELECT		TYPE AS 'Type',
-			ItemCode,
+			ItemCode AS 'Code',
+			ChildNum,
 			Quantity,
 			Warehouse,
 			IssueMthd

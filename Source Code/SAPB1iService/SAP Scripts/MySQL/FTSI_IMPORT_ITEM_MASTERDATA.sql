@@ -10,7 +10,6 @@ CREATE DEFINER=`root`@`localhost` PROCEDURE `FTSI_IMPORT_ITEM_MASTERDATA`(
 BEGIN
 	-- HEADER --
 	SELECT		Series,
-			ItemCode,
 			U_ItemID,
 			U_PackageID,
 			U_ProcedureID,
@@ -20,22 +19,17 @@ BEGIN
 			InvntItem,
 			SellItem,
 			PrchseItem,
-			DfltWH AS 'DefaultWarehouse'
-
-
-	FROM ftoitm T1
-	WHERE T1.Id = Id;
-
-	-- Addresses Table --
-	SELECT		MngMethod,
+			DfltWH,
+			MngMethod,
 			BuyUnitMsr,
 			SalUnitMsr,
 			InvntryUOM,
 			GLMethod,
-			CustTag,
-			PACKAGE AS 'Package'
-
-	FROM ftitm1 T1 
+			U_CustTag,
+			U_Package,
+			U_RefNum,
+			Id AS 'U_Id'
+	FROM ftoitm T1
 	WHERE T1.Id = Id;
 END$$
 
